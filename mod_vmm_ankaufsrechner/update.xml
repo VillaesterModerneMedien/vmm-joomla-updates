@@ -1,0 +1,15 @@
+<updates>
+
+    <update>
+        <name>VMM Ankaufsrechner Updates</name>
+        <element>mod_vmm_ankaufsrechner</element>
+        <type>module</type>
+        <client>site</client>
+        <version>3.2.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/VillaesterModerneMedien/vmm-joomla-updates/releases/download/ankaufsrechner-v3.2.1/mod_vmm_ankaufsrechner_v3.2.1.zip</downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="[456].[1234567890]"/>
+    </update>
+
+</updates>
